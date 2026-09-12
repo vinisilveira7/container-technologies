@@ -1,2 +1,2 @@
 # template-ci-cd
-Laboratório CI/CD - Impacta
+Laboratório CI/CD - Vinicius Silveira
