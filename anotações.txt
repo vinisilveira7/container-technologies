@@ -1,0 +1,2 @@
+mkdir -pv .github/workflows
+touch .github/workflows/infra.yml
